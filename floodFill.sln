@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "floodFill", "floodFill\floodFill.csproj", "{2FB1A8AD-E572-407E-8FE8-FF02531897EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB1A8AD-E572-407E-8FE8-FF02531897EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB1A8AD-E572-407E-8FE8-FF02531897EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB1A8AD-E572-407E-8FE8-FF02531897EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB1A8AD-E572-407E-8FE8-FF02531897EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC14E7FC-4DA7-4622-8460-7218170CBC9F}
+	EndGlobalSection
+EndGlobal
